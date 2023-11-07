@@ -1,8 +1,5 @@
 
 [<img src="https://www.du.edu/sites/default/files/styles/featured_media_image_1200_x_801/public/feature-media-image/du_logo_for_grantstf.png?itok=rcSPBBXx" width="220" height="200">](https://www.utexas.edu/)
-<!--
-**steflangehennig/steflangehennig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 *Past:* PhD in Political Science, Lead Data Scientist
 
