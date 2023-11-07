@@ -5,7 +5,7 @@
 
 *Current:* Assistant Professor of the Practice at the University of Denver
 
-*Research & Teaching Interests*: Computational Social Science, Bayesian Statistics, Political Science, Public Policy 
+*Research & Teaching Interests*: Computational Social Science, Bayesian Statistics, Business Analytics, Political Science, Public Policy 
 
 [[LinkedIn]](https://linkedin.com/in/stefani-langehennig-phd-418820144)
 [[CV]](https://steflangehennig.github.io/cv.pdf) 
