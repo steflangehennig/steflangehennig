@@ -4,7 +4,7 @@
 **steflangehennig/steflangehennig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-*Past:* PhD in Political Science, Lead Data Scientist, Educator
+*Past:* PhD in Political Science, Lead Data Scientist
 
 *Current:* Assistant Professor of the Practice at the University of Denver
 
