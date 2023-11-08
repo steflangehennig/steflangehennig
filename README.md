@@ -1,8 +1,8 @@
-**Past:** PhD in Political Science, Lead Data Scientist
+**Past:** PhD in political science, data scientist, teacher
 
 **Current:** Assistant Professor of the Practice at the University of Denver
 
-**Research & Teaching Interests**: Computational Social Science, Bayesian Statistics, Business Analytics, Political Science, Public Policy 
+**Research & Teaching Interests**: computational social science, bayesian statistics, business analytics, political science, public policy 
 
 [[LinkedIn]](https://linkedin.com/in/stefani-langehennig-phd-418820144)
 [[CV]](https://steflangehennig.github.io/cv.pdf) 
